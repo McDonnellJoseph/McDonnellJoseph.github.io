@@ -8,25 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Licence in Mathematics and Computer Science applied to Economics, Lille University, 2021
-* First year of Internation Business Bachelor, Maastricht University, 2018
-* Baccalauréat Option International, Chantilly, 2017
+Passionate about data and computer science I enjoy applying these skills to solve complex problems. 
 
-Work experience
-======
-* Summer 2021: Farmhand
-  * Chateau Lafon-Rochet, Saint Estephe
+To learn more about me you can read my [CV](./cv/), or watch a talk I gave at [Dataquitaine](./talks/2024-03-21-dataquitaine).
 
-* Summer 2019-2020: Mecanic 
-  * Norauto, Pont-Saint-Maxence 
-
-* 2017-2018: Customer Service Representative 
-   * Daimler, Maastricht
-  
-Skills
-======
-* Python and its libraries for Data Science 
-
+In my spare time sometimes I like to write. You can head to my latest [blog posts](./year-archive/) and see if you can find something you like.
 
