@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Research Projects"
-    url: /research/
+  # - title: "Research Projects"
+  #   url: /research/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Blog Posts"
     url: /year-archive/
